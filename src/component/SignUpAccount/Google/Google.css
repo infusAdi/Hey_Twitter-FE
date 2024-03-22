@@ -6,10 +6,12 @@
   font-family: Arial, sans-serif;
   font-weight: 400;
   font-size: 37px;
+  cursor: pointer;
 }
 .signin-second-google {
   font-size: 20px;
   font-family: Arial, sans-serif;
+  cursor: pointer;
 }
 
 .Google-textfield {

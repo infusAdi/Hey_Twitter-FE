@@ -1,5 +1,6 @@
 .apple-logo{
-    width: 200px;
+    width: 50px;
+    height: 50px;
 }
 .apple-card{
     width: 650px;
@@ -39,8 +40,10 @@
 .check-box p{
     font-weight: 400;
     font-size:18px;
+    cursor:default;
 }
 .button-apple{
   text-align: center; 
   color: #0071e3; 
+  cursor:default;
 }
