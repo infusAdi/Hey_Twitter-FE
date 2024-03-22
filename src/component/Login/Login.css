@@ -1,0 +1,42 @@
+.login-element {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 42px;
+  color: #000000;
+}
+.input {
+  height: 70px;
+  width: 450px;
+  border-radius: 6px;
+}
+.input-div {
+  display: flex;
+  flex-direction: column;
+}
+.login-button {
+  width: 450px;
+  height: 60px;
+  background-color: #1da1f2;
+  border: none;
+  border-radius: 50px;
+  color: #ffff;
+  cursor: pointer;
+}
+.forget-signup {
+  color: #1da1f2;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: 30px;
+}
+.forget-signup-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.login-container {
+  width: 450px;
+  margin: 0 auto;
+  height: 476px;
+  margin-top: 60px;
+}

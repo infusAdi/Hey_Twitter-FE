@@ -1,0 +1,56 @@
+.pelemet-signup {
+  font-family: Segoe UI;
+  font-weight: 700;
+  font-size: 30px;
+}
+.signup-input {
+  display: flex;
+  flex-direction: column;
+  width: 670px;
+  gap: 20px;
+}
+.sigup-pElement {
+  color: #1da1f2;
+  font-family: Segoe UI;
+  font-weight: 400;
+  font-size: 18px;
+  cursor: pointer;
+}
+.sigup-DateElement {
+  color: #000000;
+  font-family: Segoe UI;
+  font-weight: 700;
+  font-size: 18px;
+}
+.sigup-DesElement {
+  color: #000000;
+  font-family: Segoe UI;
+  font-weight: 400;
+  font-size: 16px;
+  width: 670px;
+}
+.date-input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 18px;
+  padding-bottom: 30px;
+}
+.signup-button{
+    background-color: #1DA1F2;
+   
+    color: #ffff;
+    width: 670px;
+ 
+   
+}
+.card-signup{
+    padding: 40px 0px;
+    width: 750px;
+    margin: 0 auto;
+   
+}
+.logo-twitter{
+    display: flex;
+    margin: 0 auto;
+}

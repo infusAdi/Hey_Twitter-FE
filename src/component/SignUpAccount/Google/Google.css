@@ -1,0 +1,53 @@
+.div-container {
+  width: 800px;
+  padding: 30px;
+}
+.signin-google {
+  font-family: Arial, sans-serif;
+  font-weight: 400;
+  font-size: 37px;
+}
+.signin-second-google {
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.Google-textfield {
+  width: 350px;
+}
+.forgot-google {
+  color: #0b57d0;
+  font-family: Arial, sans-serif;
+}
+.div-element {
+  padding: 15px 0px;
+}
+.div-element span {
+  color: #0b57d0;
+  cursor: pointer;
+}
+.button-google {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid;
+  
+}
+.div-Google {
+  
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.check-boc{
+    display: flex;
+    gap:10px
+}
+
+.input-pass{
+    height: 25px;
+    width: 190px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 0px 15px;
+}
